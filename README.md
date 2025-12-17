@@ -1,96 +1,49 @@
-<h1 align="center">
-  Hi 👋, I'm Sanjay Kumar
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+%2F+Full-Stack+Developer;React+%26+React+Native+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
-</h3>
-
----
-
-## 🚀 About Me
-
-💻 Frontend / Full-Stack Developer passionate about building  
-**clean, scalable, and user-friendly applications**
-
-- ⚛️ React & React Native developer  
-- 🌐 MERN Stack (MongoDB, Express, Node.js)  
-- ☕ Java for backend & core programming  
-- 🌱 Constantly learning and improving  
-- 🔥 Love working on real-world projects
-
----
-
-## 🛠 Tech Stack
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
----
-
-## 💻 What I Do
-
-- ⚛️ Build responsive UIs using **React**
-- 📱 Create cross-platform mobile apps with **React Native**
-- 🌐 Develop REST APIs with **Node.js & Express**
-- 🗄 Design databases using **MongoDB**
-- ☕ Work with **Java** for backend & logic
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">Hi, I’m SanjayKumar S 👋</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjayHordak&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayHordak&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+%2F+Full-Stack+Developer;React+%26+React+Native;Node+%7C+Java+%7C+Spring+Boot;MongoDB+%7C+MySQL&center=true&width=520&height=40">
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+### About
+Frontend-focused developer with a strong interest in backend systems.  
+I enjoy building clean user interfaces, well-structured APIs, and learning production-grade backend development.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanjayHordak&theme=tokyonight&no-frame=true&row=1&column=6"/>
+---
+
+### Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-- 🛒 **Diecast Car Selling Platform** – Full-stack web application  
-- 🌐 **Personal Portfolio Website**  
-- 📱 **React Native Mobile Applications**  
-- ⚙️ **Backend APIs with Node.js & Express**
-
-*(More coming soon 🚧)*
+### Currently Learning
+- Spring Boot (REST APIs, JPA)
+- MySQL (schema design, queries)
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced backend concepts  
-- System design & clean architecture  
-- Performance optimization  
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *(add link)*  
-- 🌐 Portfolio: *(add link)*  
-- 📧 Email: *(optional)*  
+### GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" height="150"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanjayHordak&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=views&style=flat" />
 </p>
 
-⭐ **If you like my work, don’t forget to star my repositories!**
 
 
 
