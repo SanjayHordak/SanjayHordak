@@ -96,8 +96,8 @@ I specialize in building **modern, scalable, and user-friendly applications** an
 ## 📫 Let’s Connect
 
 - 💼 LinkedIn: *(add link)*
-- 🌐 Portfolio: *(add link)*
-- 📧 Email: *(optional)*
+- 🌐 Portfolio: *portfolio-sanjay-orpin.vercel.app/*
+- 📧 Email: *sanjay09082000@gmail.com*
 
 ---
 
