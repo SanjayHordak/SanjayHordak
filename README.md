@@ -34,14 +34,14 @@ I enjoy building clean user interfaces, well-structured APIs, and learning produ
 
 ### GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjayHordak&show_icons=true&hide_title=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayHordak&layout=compact&theme=default" height="150"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=views&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SanjayHordak&label=views&style=flat" />
 </p>
 
 
